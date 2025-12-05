@@ -1,8 +1,13 @@
 {
     "id": "latex-templates",
-    "version": "1.2.0",
+    "version": "1.0.0",
     "name": "Latex Templates",
     "description": "A curated collection of LaTeX templates not available in the CTAN repository",
+    "publisher": "HenriKCorrea",
+    "keywords": [
+        "LaTeX",
+        "Templates"
+    ],
     "documentationURL": "https://github.com/HenriKCorrea/latex-templates/tree/main",
     "licenseURL": "https://github.com/HenriKCorrea/devcontaer-templates/blob/main/LICENSE",
     "platforms": [
