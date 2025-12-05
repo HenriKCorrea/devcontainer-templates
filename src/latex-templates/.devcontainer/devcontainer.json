@@ -17,21 +17,16 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"James-Yu.latex-workshop",
-				"PKief.material-icon-theme",
-				"GitHub.vscode-github-actions",
-				"hediet.vscode-drawio"
+				"James-Yu.latex-workshop"
 			],
 			"settings": {
-				"workbench.colorTheme": "Default Dark Modern",
-				"workbench.iconTheme": "material-icon-theme",
 				"workbench.editorAssociations": {
 				"*.pdf": "latex-workshop-pdf-hook"
 				},
 				"latex-workshop.view.pdf.viewer": "tab"
 			}
 		}
-	},
+	}
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
